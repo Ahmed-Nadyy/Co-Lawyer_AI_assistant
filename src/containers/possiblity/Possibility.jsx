@@ -10,7 +10,7 @@ const Possibility = () => {
           <img src={possibilityImage} alt="possibility" />
         </div>
         <div className="gpt3__possibility-container">
-          <p><a href="/">Request Early Access to Get Started</a></p>
+          <p><a href="/" rel="noreferrer">Request Early Access to Get Started</a></p>
           {/* <h1>The possibilities are beyond your imagination.</h1> */}
           <h1 className='rtl'>الاحتمالات هي أبعد من خيالك.</h1>
           <p>Yet be any for travelling assistance unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>

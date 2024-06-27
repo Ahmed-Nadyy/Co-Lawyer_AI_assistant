@@ -9,7 +9,10 @@ const CTA = () => {
         <h1>
         Join Now & Unlock the Future of Legal Research!</h1>
       </div>
-      <button> <a href="http://localhost:5173/" target="_blank">Get Started  </a></button>
+      <button type="button">
+  <a href="http://localhost:5173/" target="_blank" rel="noreferrer"> Get Started </a>
+</button>
+
     </div>
   )
 }

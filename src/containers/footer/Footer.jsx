@@ -1,8 +1,6 @@
 import React from 'react'
 import "./footer.css"
 
-import ai from "../../assets/logo3-01.png"
-
 const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">

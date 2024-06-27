@@ -14,7 +14,9 @@ const Header = () => {
 
         <div className="gpt3__header-content__input">
           {/* <input type="email" placeholder="Your Email Address" /> */}
-         <button type="button"> <a href="http://localhost:5173/" target="_blank"> Get Started </a></button>
+          <button type="button">
+  <a href="http://localhost:5173/" target="_blank" rel="noreferrer"> Get Started </a>
+</button>
         </div>
 
         <div className="gpt3__header-content__people">
